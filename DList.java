@@ -1,5 +1,9 @@
 /* DList.java */
 
+/**
+ *  Circular doubly-linked list, from CS61B Spring 2014.
+ */
+
 package list;
 
 /**
